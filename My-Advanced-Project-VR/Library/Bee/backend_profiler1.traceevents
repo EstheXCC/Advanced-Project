@@ -1,0 +1,681 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1669445297429284, "dur":1127, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297430420, "dur":60, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1669445297430507, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1669445297430524, "dur":532, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1669445297431082, "dur":1018, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297432100, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744087, "dur":368, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744455, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744469, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744471, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744478, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744479, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744484, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744486, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744492, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744493, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744499, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744500, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744506, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744507, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744513, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744514, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744518, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744520, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744528, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744531, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744539, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744541, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744548, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744550, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744559, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744561, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744569, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744571, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744580, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744581, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744588, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744590, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744599, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744619, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297744643, "dur":1689, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1669445297431282, "dur":826, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297432110, "dur":2374, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297434496, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669445297434509, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297434908, "dur":223, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669445297435133, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669445297435146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297436552, "dur":3860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669445297440415, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1669445297440439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297440443, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1669445297441849, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297441874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297441878, "dur":136563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297578472, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297578492, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297578500, "dur":11555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297590079, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297590093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297590101, "dur":13387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297603510, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297603526, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297603531, "dur":7419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297610967, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297611096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297611100, "dur":10605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297621723, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297621738, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297621742, "dur":10606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297632366, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297632383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297632388, "dur":12672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669445297645077, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_index_hmd.json" }}
+,{ "pid":12345, "tid":1, "ts":1669445297645091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297648601, "dur":9779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_index_hmd.json" }}
+,{ "pid":12345, "tid":1, "ts":1669445297658401, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669445297658416, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669445297658420, "dur":71017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1669445297729461, "dur":14632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297431330, "dur":792, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297432123, "dur":2367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297434496, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1669445297434537, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297438378, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1669445297440568, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297440713, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297441293, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297443295, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1669445297443312, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297444086, "dur":134485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1669445297578605, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297578832, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297578843, "dur":9518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297588397, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297588417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297588425, "dur":6516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297594959, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297594975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297594980, "dur":10002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297605002, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297605196, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297605202, "dur":10194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297615417, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297615584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297615590, "dur":10055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297625665, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297625681, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297625687, "dur":11809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297637514, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/d3dcompiler_43.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297637528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297637897, "dur":8177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/d3dcompiler_43.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669445297646102, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" }}
+,{ "pid":12345, "tid":2, "ts":1669445297646126, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297648690, "dur":10817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" }}
+,{ "pid":12345, "tid":2, "ts":1669445297659543, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1669445297659590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297659597, "dur":9247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1669445297668886, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1669445297668908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297668922, "dur":10064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1669445297679009, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1669445297679024, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669445297679028, "dur":7297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1669445297686349, "dur":57756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297431318, "dur":797, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297432115, "dur":2377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297434496, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669445297434545, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297437848, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669445297440556, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1669445297440571, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297440575, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1669445297442367, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR.exe" }}
+,{ "pid":12345, "tid":3, "ts":1669445297442396, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297442399, "dur":137839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR.exe" }}
+,{ "pid":12345, "tid":3, "ts":1669445297580290, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297580332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297580575, "dur":11921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297592516, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297592533, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297592540, "dur":9414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297601981, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297602006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297602017, "dur":8030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297610074, "dur":474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297610551, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297610556, "dur":10916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297621490, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297621505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297621509, "dur":10659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297632185, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297632199, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297632205, "dur":10159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297642383, "dur":762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/d3dcompiler_47.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297643148, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297643157, "dur":13146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/d3dcompiler_47.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669445297656325, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":3, "ts":1669445297656539, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297656549, "dur":1530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":3, "ts":1669445297658098, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1669445297658114, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297658120, "dur":10774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1669445297668914, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1669445297668932, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669445297668936, "dur":11389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1669445297680348, "dur":63740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297431363, "dur":766, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297432129, "dur":2453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297434582, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1669445297434694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297447824, "dur":7066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1669445297454918, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297454938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297454946, "dur":10662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297465627, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297465690, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297465701, "dur":9296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297475019, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297475033, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297475038, "dur":109472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297584525, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297584540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297584548, "dur":13989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297598572, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297598590, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297598597, "dur":12456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297611070, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297611273, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297611286, "dur":11389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297622692, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297622706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297622711, "dur":11476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297634207, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/XRSDKOpenVR.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297634237, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297636189, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/XRSDKOpenVR.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297638302, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/widevinecdmadapter.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297638324, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297638330, "dur":6465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/widevinecdmadapter.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669445297644813, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_rift.json" }}
+,{ "pid":12345, "tid":4, "ts":1669445297644826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297648526, "dur":13363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_rift.json" }}
+,{ "pid":12345, "tid":4, "ts":1669445297661916, "dur":736, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1669445297662656, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669445297662665, "dur":16191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1669445297679623, "dur":64462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297431396, "dur":738, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297432134, "dur":2434, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297434570, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1669445297434691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297447844, "dur":9775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1669445297457643, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297457667, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297457671, "dur":12380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297470085, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297470106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297470174, "dur":114367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297584560, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297584601, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297584607, "dur":11277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297595901, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297595914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297595932, "dur":11647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297607602, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297608028, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297608043, "dur":9279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297617345, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297617520, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297617530, "dur":10162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297627719, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297627734, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297627741, "dur":12781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297640545, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/openvr_api.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297640575, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297640607, "dur":7505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/openvr_api.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669445297648143, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":5, "ts":1669445297648216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297649951, "dur":11074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":5, "ts":1669445297661055, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1669445297661078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669445297661085, "dur":25097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1669445297686200, "dur":57928, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297431446, "dur":693, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297432139, "dur":2423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297434564, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1669445297434682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297447031, "dur":10311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1669445297457378, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297457460, "dur":18, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297457485, "dur":11657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297469159, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297469206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297469211, "dur":112052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297581286, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297581711, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297581717, "dur":13659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297595397, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297595413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297595419, "dur":12524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297610009, "dur":393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297610406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297610411, "dur":10846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297621274, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297621288, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297621314, "dur":11022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297632356, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297632372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297632380, "dur":9988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297643101, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/chrome_elf.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297643126, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297643134, "dur":8904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/chrome_elf.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669445297652070, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_knuckles.json" }}
+,{ "pid":12345, "tid":6, "ts":1669445297652102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297652771, "dur":11433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_knuckles.json" }}
+,{ "pid":12345, "tid":6, "ts":1669445297664225, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1669445297664246, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669445297664249, "dur":15807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1669445297680095, "dur":63989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297431478, "dur":665, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297432143, "dur":2413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297434558, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1669445297434687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297447135, "dur":6401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1669445297453561, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297453580, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297453588, "dur":12321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297465948, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297465965, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297465971, "dur":8850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297474840, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297474859, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297474865, "dur":106888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297581774, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297581791, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297581794, "dur":12642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297594457, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297594471, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297594476, "dur":10971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297605466, "dur":626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297606095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297606102, "dur":12605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297618728, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297618743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297618747, "dur":12666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297631439, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/SteamVR_Actions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297631645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297631655, "dur":11772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/SteamVR_Actions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669445297643454, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":7, "ts":1669445297643473, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297649495, "dur":10068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":7, "ts":1669445297659632, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1669445297659651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669445297659656, "dur":57223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1669445297717024, "dur":27075, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297431506, "dur":642, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297432148, "dur":2395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297434552, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1669445297434678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297448093, "dur":4444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1669445297452566, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297452592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297452600, "dur":10104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297462751, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297462790, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297462807, "dur":9026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297471855, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297472041, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297472047, "dur":109721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297581790, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297581807, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297581811, "dur":12089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297593922, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297593940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297593947, "dur":8930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297602899, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297602916, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297602922, "dur":7103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297610040, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297610339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297610362, "dur":10805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297621193, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297621208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297621221, "dur":10854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297632094, "dur":540, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/SteamVR.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297632637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297632641, "dur":10797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/SteamVR.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669445297643457, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive_pro.json" }}
+,{ "pid":12345, "tid":8, "ts":1669445297643477, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297648515, "dur":9454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive_pro.json" }}
+,{ "pid":12345, "tid":8, "ts":1669445297657989, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1669445297658016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297658139, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1669445297661638, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1669445297661665, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669445297661671, "dur":67857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1669445297729544, "dur":14543, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297431532, "dur":621, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297432153, "dur":2378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297434533, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1669445297434674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297445330, "dur":4708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1669445297450061, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297450090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297450271, "dur":9540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297459829, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297459843, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297459848, "dur":13548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297473419, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297473446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297473575, "dur":107646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297581245, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297581714, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297581720, "dur":10081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297591824, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297591842, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297591851, "dur":12155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297604028, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297604048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297604054, "dur":10752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297614989, "dur":347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297615340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297615351, "dur":10210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297625580, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297625601, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297625609, "dur":11672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297637326, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/zf_cef.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297637570, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669445297637988, "dur":106034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/zf_cef.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669445297744041, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":9, "ts":1669445297744043, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297431561, "dur":596, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297432157, "dur":2380, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297434539, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1669445297434669, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297445066, "dur":5220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1669445297450307, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297450330, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297450334, "dur":9386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297459765, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297459782, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297459789, "dur":9087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297468900, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297468930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297469123, "dur":115270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297584435, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297584572, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297584576, "dur":11193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297595804, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297595820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297595826, "dur":10499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297606344, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297606366, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297606371, "dur":12048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297618440, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297618679, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297618687, "dur":10086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297628797, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297628813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297628823, "dur":10979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297639832, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/ZFProxyWeb.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297639850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297639860, "dur":6119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/ZFProxyWeb.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669445297646008, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":10, "ts":1669445297646048, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297648941, "dur":10573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":10, "ts":1669445297659543, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1669445297659565, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669445297659576, "dur":26724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1669445297686319, "dur":57791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297431586, "dur":576, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297432162, "dur":2362, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297434527, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1669445297434659, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297444461, "dur":5008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1669445297449511, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297449539, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297450162, "dur":7666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297457847, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297457865, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297457869, "dur":10673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297468564, "dur":375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297469123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297469130, "dur":115641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297584784, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297584793, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297584796, "dur":10607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297595422, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297595439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297595444, "dur":10307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297605772, "dur":534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297606309, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297606316, "dur":12878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297619208, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297619220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297619224, "dur":10992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297630234, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297630251, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297630256, "dur":11036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297641942, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/libGLESv2.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297642181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297642326, "dur":12937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/libGLESv2.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669445297655286, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/actions.json" }}
+,{ "pid":12345, "tid":11, "ts":1669445297655304, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297655312, "dur":8535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/actions.json" }}
+,{ "pid":12345, "tid":11, "ts":1669445297663923, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1669445297663957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297663965, "dur":14764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1669445297678783, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1669445297678822, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669445297678839, "dur":7368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level1" }}
+,{ "pid":12345, "tid":11, "ts":1669445297686228, "dur":57888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297431606, "dur":561, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297432168, "dur":2350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297434520, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1669445297434654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297444345, "dur":5622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1669445297449996, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297450256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297450262, "dur":15619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297465902, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297465920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297465926, "dur":9157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297475103, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297475132, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297475136, "dur":109417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297584580, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297584605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297584610, "dur":11756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297596411, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297596432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297596437, "dur":11153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297607618, "dur":602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297608223, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297608229, "dur":10468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297618716, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297618732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297618736, "dur":10091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297628853, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297628870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297628875, "dur":14301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669445297643198, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":12, "ts":1669445297643222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297644792, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":12, "ts":1669445297646962, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":12, "ts":1669445297647002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297649977, "dur":10833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":12, "ts":1669445297660854, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1669445297660907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297660915, "dur":18093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1669445297679087, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1669445297679106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669445297679110, "dur":6873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1669445297686080, "dur":58084, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297431642, "dur":530, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297432172, "dur":2340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297434514, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1669445297434545, "dur":18, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297440721, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1669445297442000, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1669445297442021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297442031, "dur":3515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1669445297445590, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1669445297445612, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297446381, "dur":3686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1669445297450089, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297450104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297450259, "dur":12950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297463237, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297463255, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297463273, "dur":12381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297475674, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297475687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297475693, "dur":108931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297584639, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297584652, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297584655, "dur":11717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297596395, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297596415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297596421, "dur":13457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297609990, "dur":564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297610557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297610568, "dur":10773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297621374, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297621630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297621636, "dur":11410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297633081, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297633092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297633096, "dur":10537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669445297643651, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":13, "ts":1669445297643675, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297648362, "dur":13308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":13, "ts":1669445297661702, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1669445297661721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669445297661725, "dur":18543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1669445297680306, "dur":63777, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297431667, "dur":511, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297432178, "dur":2327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297434508, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1669445297434664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297444755, "dur":2428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1669445297447201, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Valve.Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297447230, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297448560, "dur":7316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Valve.Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297455901, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297455922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297456026, "dur":13136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297469179, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297469195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297469200, "dur":112572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297581791, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297581808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297581812, "dur":12106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297593937, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297594034, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297594182, "dur":10500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297604702, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297604937, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297604948, "dur":13742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297618709, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297618882, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297618886, "dur":10711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297629613, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297629627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297629633, "dur":11157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297640808, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/libEGL.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297640824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297640831, "dur":10396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/libEGL.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669445297651259, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":14, "ts":1669445297651291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297652430, "dur":11624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":14, "ts":1669445297664083, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level3.resS" }}
+,{ "pid":12345, "tid":14, "ts":1669445297664109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297664113, "dur":14982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level3.resS" }}
+,{ "pid":12345, "tid":14, "ts":1669445297679115, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1669445297679893, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669445297679902, "dur":6300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1669445297686225, "dur":57897, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297431694, "dur":488, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297432182, "dur":2318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297434502, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1669445297434649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297443803, "dur":3342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1669445297447170, "dur":447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/ZFBrowser.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297447622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297448901, "dur":19015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/ZFBrowser.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297467947, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297468052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297468060, "dur":112684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297580780, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297580839, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297580850, "dur":11598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297592561, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297592589, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297592594, "dur":11989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297604604, "dur":439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297605045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297605067, "dur":10334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297615418, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297615667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297615671, "dur":10413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297626103, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297626116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297626121, "dur":14800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297641934, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/ucrtbased.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297641993, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297642006, "dur":13116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Plugins/x86_64/ucrtbased.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669445297655154, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":15, "ts":1669445297655201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297655220, "dur":6948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":15, "ts":1669445297662197, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1669445297662394, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669445297662402, "dur":21465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1669445297683907, "dur":60281, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297431722, "dur":464, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297432187, "dur":2308, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297434498, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1669445297434545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297439842, "dur":1162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1669445297441015, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297441026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297441352, "dur":10009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297451394, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297451429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297451437, "dur":11312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297462776, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297463061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297463066, "dur":8620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297471705, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297471721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297471732, "dur":112916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297584661, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297584673, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297584677, "dur":15367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297600065, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297600081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297600088, "dur":10285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297610414, "dur":526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297610946, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297610951, "dur":11557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297622522, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297622535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297622540, "dur":11333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297633896, "dur":396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297634295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297634300, "dur":9771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669445297644097, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive.json" }}
+,{ "pid":12345, "tid":16, "ts":1669445297644120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297648371, "dur":10005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/StreamingAssets/SteamVR/binding_vive.json" }}
+,{ "pid":12345, "tid":16, "ts":1669445297658395, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":16, "ts":1669445297658408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297658412, "dur":13936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":16, "ts":1669445297672396, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1669445297672428, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297672446, "dur":6547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1669445297679014, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1669445297679029, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669445297679033, "dur":5091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/WangHailin/Desktop/3DVR/3DToVR_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1669445297684154, "dur":59980, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669445297747610, "dur":2919, "ph":"X", "name": "ProfilerWriteOutput" }
+,
