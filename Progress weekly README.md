@@ -1,3 +1,7 @@
+Links：
+GitHub Link: https://github.com/EstheXCC/Advanced-Project
+Video Link: https://youtu.be/O4TENQpYiR8
+
 # MSc-Advanced-Project progress weekly
 # week1 (22.6.2022)
 I proposed two themes and plans to discuss with Bea, and finally we decided on a project that was more suitable for me, that is, language violence.
